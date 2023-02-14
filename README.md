@@ -1,2 +1,2 @@
-# Repository of example-git-pull
+# Repository of example-git-pull (AnotherChange)
 Repository to practice git pull
